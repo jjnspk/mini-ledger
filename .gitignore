@@ -1,0 +1,15 @@
+# Gradle / Java
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# 실험 원자료 (요약만 docs/에 남긴다)
+/results/*.csv
